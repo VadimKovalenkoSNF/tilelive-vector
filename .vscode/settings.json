@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeModifiedBorder": "#ff0000",
+        "tab.inactiveModifiedBorder": "#ff0000",
+        "tab.unfocusedActiveModifiedBorder": "#ff0000",
+        "tab.unfocusedInactiveModifiedBorder": "#ff0000",
+        "activityBar.background": "#1E246F",
+        "titleBar.activeBackground": "#2A329B",
+        "titleBar.activeForeground": "#FAFAFE"
+    }
+}
